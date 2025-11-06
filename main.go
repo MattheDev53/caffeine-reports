@@ -77,7 +77,6 @@ func GenerateReport(templateFile string, dataFile string, outputFile string) {
 		os.Exit(1)
 	}
 	fmt.Println("Report Generated Successfully!")
-	fmt.Printf("file://%s\n", outputFile)
 }
 
 func main() {
