@@ -2,6 +2,10 @@
 
 Simple Go CLI for generating PDF Reports with Typst
 
+## Prerequisites
+
+This program assumes that the Typst executable is accessible from your system's PATH. Ensure that you have [Typst](https://typst.app/) installed on any machine that your project will be executed. You can install it by following [the instructions in the Typst repository](https://github.com/typst/typst?tab=readme-ov-file#installation).
+
 ## Building
 
 ### For Linux
