@@ -18,11 +18,7 @@ nix build
 
 ### For Windows
 
-I just did this & it worked.
-
-```nushell
-sh -c 'GOOS=windows GOARCH=amd64 go build'
-```
+I can't cross-compile for Windows anymore :) god i wish nix supported cross compliling to windows
 
 ### For any other platform
 
